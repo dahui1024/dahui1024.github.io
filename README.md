@@ -1,2 +1,6 @@
-# dahui1024.github.io
-大辉的博客
+---
+title: This is my title
+layout: post
+---
+
+Here is my page.
